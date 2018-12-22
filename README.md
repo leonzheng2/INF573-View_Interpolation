@@ -1,4 +1,5 @@
-# view_interpolation-graph_cuts_stereo_matching
+# INF573__View-interpolation
+
 Implementation of Seitz and Dyer view interpolation algorithm, using Kolmogorov and Zabih's graph cuts stereo matching algorithm.
 
 Details are in the subdirectories. 
