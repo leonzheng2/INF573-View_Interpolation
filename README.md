@@ -1,8 +1,11 @@
 # INF573__View-interpolation
 
+INF573 Image Analysis course project done with Chen Jiabin at Ecole polytechnique.
 Implementation of Seitz and Dyer view interpolation algorithm, using Kolmogorov and Zabih's graph cuts stereo matching algorithm.
 
-Details are in the subdirectories. 
+Project report is in the Git repo.
+
+Source codes are in the subdirectories. 
 
 The basic-view-interpolation directory uses OpenCV StereoSGBM stereo matching algorithm, and don't work a lot on our own pictures.
 
