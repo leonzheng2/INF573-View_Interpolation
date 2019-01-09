@@ -1,4 +1,4 @@
-# INF573 View-interpolation
+# INF573 Linear Interpolation with Image Rectification and Disparity Mapping
 
 INF573 Image Analysis (2018-2019, R. Keriven) course project done with Chen Jiabin at Ecole polytechnique.
 Implementation of Seitz and Dyer view interpolation algorithm, using Kolmogorov and Zabih's graph cuts stereo matching algorithm.
